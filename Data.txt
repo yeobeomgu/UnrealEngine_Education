@@ -1,0 +1,9 @@
+이주하기
+PlayerStateWidget
+
+List View 넣기
+-50
+50
+300
+600	
+1 0
